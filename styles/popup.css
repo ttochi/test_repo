@@ -1,0 +1,21 @@
+body {
+  margin: 20px;
+  width: 400px;
+  color: #424242; }
+  body div {
+    margin-bottom: 10px; }
+    body div input {
+      width: 70%;
+      height: 30px;
+      box-sizing: border-box;
+      font-size: 15px;
+      line-height: 30px; }
+    body div button {
+      margin-left: 10px;
+      width: 20%;
+      height: 30px;
+      border: none;
+      border-radius: 4px;
+      background-color: #FFBF00; }
+
+/*# sourceMappingURL=popup.css.map */
