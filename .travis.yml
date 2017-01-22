@@ -1,3 +1,7 @@
-language: "node_js"
+language: node_js
 node_js:
-  - "6"
+  - "node"
+
+notifications:
+  email: false
+  slack: hanzogak:knRkPW0ecbWH6m70HcuoNP1U

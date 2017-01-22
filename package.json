@@ -1,0 +1,24 @@
+{
+  "name": "chrome",
+  "version": "1.0.0",
+  "description": "chrome tab test",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttochi/test_repo.git"
+  },
+  "author": "ttochi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttochi/test_repo/issues"
+  },
+  "homepage": "https://github.com/ttochi/test_repo#readme",
+  "devDependencies": {
+    "gulp-qunit": "~0.2.1",
+    "gulp-util": "~2.2.14",
+    "gulp": "~3.5.1"
+  }
+}
